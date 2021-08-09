@@ -21,7 +21,7 @@ $ agda-mode setup
 ```
 [emacsの設定](/.emacs.d)
 
-## 2. 動かし方
+## 2. 操作方法
 
 - `test.agda`というファイルを作り、いろいろ書く
 - `M-x agda-input-show-translations` で記号の入力方法を調べる
