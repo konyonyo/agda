@@ -26,3 +26,11 @@ $ agda-mode setup
 - `test.agda`というファイルを作り、いろいろ書く
 - `M-x agda-input-show-translations` で記号の入力方法を調べる
 - `C-c C-n`で`Expression: `というプロンプトが出るのでそこに評価したい式を入力する
+
+## なんかstdlibでエラーが出る
+
+後で以下を見てみる。
+
+https://github.com/krtx/agda-handson/blob/master/install-stdlib.sh
+https://agda.readthedocs.io/en/latest/tools/package-system.html
+https://github.com/agda/agda/issues/2398
