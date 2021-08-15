@@ -48,3 +48,6 @@ standard-library
 - `M-x agda-input-show-translations` で記号の入力方法を調べる
 - `C-c C-n`で`Expression: `というプロンプトが出るのでそこに評価したい式を入力する
 
+# 3. Agdaの勉強
+
+[Agda Tutorial](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)をやってみる。
