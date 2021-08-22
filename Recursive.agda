@@ -21,10 +21,6 @@ data ℤ : Set where
   suc : ℤ → ℤ
   pred : ℤ → ℤ
 
-data BinTree : Set where
-  leaf : BinTree
-  node : BinTree → BinTree → BinTree
 
-data BinTreeLeafN : Set where
-  leaf : ℕ
+
   
